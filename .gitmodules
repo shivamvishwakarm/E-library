@@ -1,3 +1,6 @@
 [submodule "e-library_frontend"]
 	path = e-library_frontend
 	url = git@github.com:shivamvishwakarm/e-library_frontend.git
+[submodule "e-library_backend"]
+	path = e-library_backend
+	url = git@github.com:shivamvishwakarm/e-library_backend.git
